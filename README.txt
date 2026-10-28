@@ -1,2 +1,2 @@
-Thanks for coding!
-Have a Great day....
+Git Testing the git diff command
+new line as been added
